@@ -71,11 +71,11 @@ Triển khai các phương pháp trên 2 datasets sau:
 Môi trường chạy code: Kaggle notebook <br>
 Các link kaggle notebook ứng với từng phương pháp:
 
-- [phương pháp line-based](https://www.kaggle.com/code/tmtrnhelloworld/linebased-approaches)
-- [phương pháp subspace-based](https://www.kaggle.com/code/tmtrnhelloworld/subspace-based-approaches)
-- [phương pháp local statistical](https://www.kaggle.com/code/tmtrnhelloworld/localstatisticbased-approaches)
-- [phương pháp global statistical](https://www.kaggle.com/code/tmtrnhelloworld/globalstatisticalbased-approaches)
-- [phương pháp coding-based](https://www.kaggle.com/code/tmtrnhelloworld/codingbased-approaches)
+- [phương pháp line-based](https://www.kaggle.com/code/nhatlong1103/linebased-approaches)
+- [phương pháp subspace-based](https://www.kaggle.com/code/nhatlong1103/subspace-based-approaches)
+- [phương pháp local statistical](https://www.kaggle.com/code/nhatlong1103/localstatisticbased-approaches)
+- [phương pháp global statistical](https://www.kaggle.com/code/nhatlong1103/globalstatisticalbased-approaches?)
+- [phương pháp coding-based](https://www.kaggle.com/code/nhatlong1103/codingbased-approaches?)
 
 <h1 id="iv" style="font-weight: bold">4. Triển khai các phương pháp tiên tiến</h1> 
 
@@ -87,8 +87,8 @@ Triển khai trên 3 datasets sau:
 
 Môi trường chạy code: Kaggle
 
-- [Đường dẫn chạy trainArcFace.ipynb](https://www.kaggle.com/code/vitliinh/train-arcface)
-- [Đường dẫn chạy trainArcFaceWithNewPipeLine.ipynb](https://www.kaggle.com/code/khangphandik/train-arcface)
+- [Đường dẫn chạy ArcFace chứng minh dữ liệu sinh bởi DiffPalm đạt kết quả tốt](https://www.kaggle.com/code/nhatlong1103/train-arcface-6fa20a?)
+- [Đường dẫn chạy ArcFace so sánh data sinh bởi DiffPalm với các datasets khác](https://www.kaggle.com/code/huyenco/train-arcface-5-datasets)
 
 <h1 id="v" style="font-weight: bold">5. Tham khảo</h1> 
 
