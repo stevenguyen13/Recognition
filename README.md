@@ -81,9 +81,12 @@ Các link kaggle notebook ứng với từng phương pháp:
 
 Triển khai trên 3 datasets sau:
 
-- [Diff-Palm](https://www.kaggle.com/datasets/loinguyen57/dataset-40000-new)
-- [Tongji](https://www.kaggle.com/datasets/loinguyen57/tongji-train)
-- [IITD](https://www.kaggle.com/datasets/loinguyen57/iitdv1) 
+- [Diff-Palm](https://www.kaggle.com/datasets/nhatlong1103/diffpalm-original)
+- [Diff-Palm-Enhance](https://www.kaggle.com/datasets/nhatlong1103/diffpalm)
+- [Tongji](https://www.kaggle.com/datasets/nhatlong1103/tongji)
+- [IITD](https://www.kaggle.com/datasets/nhatlong1103/iitdv1)
+- [NTU-CP](https://www.kaggle.com/datasets/nhatlong1103/iitdv1)
+- [REST](https://www.kaggle.com/datasets/nhatlong1103/iitdv1) 
 
 Môi trường chạy code: Kaggle
 
