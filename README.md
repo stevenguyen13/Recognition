@@ -1,7 +1,7 @@
 <h1 align="center">RECOGNITION</h1>
 <h2 align="center">Approaches In Palmprint Recognition</h2>
 <div align="center">
-  <a href="https://github.com/loi5704/Biometrics">
+  <a href="https://github.com/stevenguyen13/Recognition">
     GitHub
   </a>
 </div>
