@@ -93,7 +93,9 @@ Môi trường chạy code: Kaggle
 - [Đường dẫn chạy ArcFace chứng minh dữ liệu sinh bởi DiffPalm đạt kết quả tốt](https://www.kaggle.com/code/nhatlong1103/train-arcface-6fa20a?)
 - [Đường dẫn chạy ArcFace so sánh data sinh bởi DiffPalm với các datasets khác](https://www.kaggle.com/code/huyenco/train-arcface-5-datasets)
 
-<h1 id="v" style="font-weight: bold">5. Tham khảo</h1> 
+<h1 id="v" style="font-weight: bold">5. App</h1> 
+- [App triển khai](https://huggingface.co/spaces/NhatLong113/diff-palm-app)
+<h1 id="v" style="font-weight: bold">6. Tham khảo</h1> 
 
 1.  leSamo (Samuel Olekšák). Biometric Identification Using Principal Lines on a Palm. Link github code: https://github.com/leSamo/Principal-Lines-Identification
 2.  auduongtansang (Âu Dương Tấn Sang). PalmprintRecognition. Link github code: https://github.com/auduongtansang/PalmprintRecognition
